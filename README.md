@@ -1,3 +1,3 @@
 # test-stack-git
 
-a
+a b
